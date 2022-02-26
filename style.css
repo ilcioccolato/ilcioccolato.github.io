@@ -576,17 +576,17 @@ li {
     padding: 80px 0 50px 0;
 }
 
-.single_catagory {
+.single_category {
     position: relative;
     z-index: 1;
     margin-bottom: 30px;
 }
 
-.single_catagory img {
+.single_category img {
     border-radius: 20px;
 }
 
-.catagory-title {
+.category-title {
     width: 200px;
     height: 50px;
     background-color: #fff;
@@ -601,18 +601,18 @@ li {
     transition-duration: 500ms;
 }
 
-.single_catagory:hover .catagory-title {
+.single_category:hover .category-title {
     background-color: #fc6c3f;
 }
 
-.catagory-title a > h5 {
+.category-title a > h5 {
     margin-bottom: 0;
     line-height: 50px;
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
 }
 
-.single_catagory:hover .catagory-title a > h5 {
+.single_category:hover .category-title a > h5 {
     color: #fff;
 }
 
